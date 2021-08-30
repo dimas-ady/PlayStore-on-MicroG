@@ -1,0 +1,6 @@
+id=PS_PATCH
+name=Play Store for MicroG
+version=0.1
+versionCode=1
+author=dimas-ady
+description=Add Play Store support for MicroG, used for IAP and License Verification
